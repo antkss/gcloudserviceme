@@ -1,0 +1,4 @@
+while true 
+do
+/app/google-cloud-sdk/bin/gcloud cloud-shell ssh
+done
